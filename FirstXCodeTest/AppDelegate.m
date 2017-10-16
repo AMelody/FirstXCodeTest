@@ -16,13 +16,15 @@
 
 - (void)applicationDidFinishLaunching:(NSNotification *)aNotification
 {
-	// Insert code here to initialize your application
+    // Insert code here to initialize your application
+	NSLog(@"First commit1");
 	NSLog(@"First commit2");
+	NSLog(@"Test for pushing");
 }
 
 
 - (void)applicationWillTerminate:(NSNotification *)aNotification {
-	// Insert code here to tear down your application
+    // Insert code here to tear down your application
 }
 
 
