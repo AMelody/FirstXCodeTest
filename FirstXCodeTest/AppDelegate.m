@@ -21,6 +21,7 @@
 	NSLog(@"First commit2");
 	NSLog(@"Test for pushing");
 	NSLog(@"Test without pushing2");
+	NSLog(@"Test avatar");
 }
 
 
